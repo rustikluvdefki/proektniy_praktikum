@@ -1,0 +1,12 @@
+- age: '23'
+  first_name: Dzhamil
+  last_name: Farkhutdinov
+  user_id: '30'
+- age: '33'
+  first_name: Test
+  last_name: Testov
+  user_id: '31'
+- age: '44'
+  first_name: qwe
+  last_name: ewq
+  user_id: '32'

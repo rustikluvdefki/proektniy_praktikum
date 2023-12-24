@@ -1,0 +1,20 @@
+[
+    {
+        "user_id": "30",
+        "first_name": "Dzhamil",
+        "last_name": "Farkhutdinov",
+        "age": "23"
+    },
+    {
+        "user_id": "31",
+        "first_name": "Test",
+        "last_name": "Testov",
+        "age": "33"
+    },
+    {
+        "user_id": "32",
+        "first_name": "qwe",
+        "last_name": "ewq",
+        "age": "44"
+    }
+]
